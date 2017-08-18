@@ -9,7 +9,9 @@ import java.io.InputStream;
 import java.util.*;
 
 /**
- * Created by zhiwei on 17-8-18.
+ * Created by zhiwei
+ * created date 17-8-18 下午11:07
+ * Github:https://github.com/loveqianqian
  */
 public class ResourcesUtils {
 
